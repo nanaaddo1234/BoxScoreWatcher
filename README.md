@@ -4,7 +4,7 @@ Box Score Watcher is an interactive basketball trivia web app that challenges us
 
 
 <p align="center">
-  <img src="images/box_score_screenshot.png" width="600" alt="Box Score Watcher Screenshot">
+  <img src="box_score_screenshot.png" width="600" alt="Box Score Watcher Screenshot">
 </p>
 
 ## How It Works
