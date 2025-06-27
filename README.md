@@ -2,6 +2,11 @@
 
 Box Score Watcher is an interactive basketball trivia web app that challenges users to guess NBA players based on hidden stats. The app dynamically fetches player statistics and allows users to reveal specific stat categories — but at the cost of their score.
 
+
+<p align="center">
+  <img src="images/box_score_screenshot.png" width="600" alt="Box Score Watcher Screenshot">
+</p>
+
 ## How It Works
 
 - Type a player's name in the search bar to guess.
