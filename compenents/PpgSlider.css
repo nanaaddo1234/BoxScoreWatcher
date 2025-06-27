@@ -1,0 +1,25 @@
+.slider-container {
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 1px;
+  padding: 1px;
+  background-color: transparent;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.slider-container h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.slider-container .MuiSlider-root {
+  color: #1976d2; /* Change the slider color */
+}
+
+.slider-container .selected-value { /* Updated to match single value display */
+  margin-top: 1px;
+  font-size: 1rem;
+  color: #333;
+}

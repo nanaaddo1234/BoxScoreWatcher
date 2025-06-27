@@ -1,0 +1,42 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background: white;
+    padding: 20px;
+    color: black;
+    font-size: larger;
+    font-family: Garamond;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .modal-content h2 {
+    margin-top: 0;
+    text-decoration: underline;  /* Underline the heading */
+  }
+  
+  .modal-content ul {
+    padding: 0;
+    list-style-type: none;  /* Remove default list styles */
+  }
+  
+  .modal-content li {
+    margin-bottom: 15px;  /* Add space between list items */
+  }
+  
+  .modal-content button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
